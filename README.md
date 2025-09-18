@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Utku Ozbulak
+# 👋 Hi, I'm Utku
 
 I'm a **Research Professor at [Ghent University Global Campus (GUGC)](https://www.ghent.ac.kr/)** and an **Adjunct Professor at [George Mason University Korea (GMUK)](https://masonkorea.gmu.edu/)**.  Currently teaching Data Visualization at GMUK and Bioinformatics at GUGC.
 
