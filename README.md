@@ -6,7 +6,7 @@ These days I'm working on **trustworthy AI**, **medical & biomedical imaging**, 
 
 If you are working on related topics -- especially pharmaceutical applications -- and are looking for someone with strong **coding**, **visualization**, and **AI** experience, feel free to reach out.
 
-## 🔬 Recent Repositories
+## 🚀 Recent Repositories
 
 - **[SpurBreast](https://github.com/utkuozbulak/SpurBreast)**  
   Repository for our MICCAI 2025 paper on creating a dataset to investigate *spurious correlations* in breast-tumor detection.
