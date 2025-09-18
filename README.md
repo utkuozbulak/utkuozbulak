@@ -8,7 +8,7 @@ If you are working on related topics -- especially pharmaceutical applications -
 
 ## 🚀 Recent Repositories
 
-- **[SpurBreast](https://github.com/utkuozbulak/SpurBreast)**  
+- **[spur-breast](https://github.com/utkuozbulak/SpurBreast)**  
   Repository for our MICCAI 2025 paper on creating a dataset to investigate *spurious correlations* in breast-tumor detection.
 
 - **[svp-generative-ai](https://github.com/utkuozbulak/svp-generative-ai)**  
