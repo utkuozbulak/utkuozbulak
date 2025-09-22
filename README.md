@@ -4,7 +4,7 @@ I'm a **Research Professor at [Ghent University Global Campus (GUGC)](https://ww
 
 These days I'm working on **trustworthy AI**, **medical & biomedical imaging**, and **AI for pharmaceutical sciences**. I'm also interested in surgical video understanding, spurious correlations, and the some strange properties of vision transformers (tokens and such).
 
-If you are working on related topics -- especially pharmaceutical applications -- and are looking for someone with strong **coding**, **visualization**, and **AI** experience, feel free to reach out.
+If you are working on related topics -- especially pharmaceutical applications (quality control, sub-visible particles, vial inspection, and similar topics) -- and are looking for someone with strong **coding**, **visualization**, and **AI** experience, feel free to reach out.
 
 ## 🚀 Recent Repositories
 
